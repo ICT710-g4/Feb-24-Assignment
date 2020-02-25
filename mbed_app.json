@@ -1,7 +1,0 @@
-{
-    "target_overrides": {
-        "*": {
-            "platform.thread-stats-enabled": true
-        }
-    }
-}
